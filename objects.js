@@ -133,3 +133,12 @@ const coffeeShop = {
 
 
 console.log(coffeeShop.total())
+
+
+
+
+
+
+
+
+/////// End of Activities////////
